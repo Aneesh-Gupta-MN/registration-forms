@@ -9,8 +9,7 @@
 !/.yarn/releases/
 !/.yarn/versions/
 
-# Generated builds and framework state
-/dist/
+# Generated framework state
 /.next/
 /.vinext/
 /out/
