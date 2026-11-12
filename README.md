@@ -2,6 +2,8 @@
 
 A simple Web Technology Lab project made with HTML, CSS, and JavaScript.
 
+**Live website:** https://aneesh-gupta-mn.github.io/registration-forms/
+
 ## Features
 
 - Registers students with browser validation
